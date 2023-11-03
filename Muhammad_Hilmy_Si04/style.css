@@ -1,0 +1,58 @@
+#header{
+    background-color: rgb(241, 233, 6);
+    height:120px ;
+}
+
+#body{
+    background-color: burlywood;
+}
+#judul{
+    text-align: center;
+    color: rgb(204, 137, 229);
+    
+}
+
+#blockquote{
+    background-color: rgb(46, 158, 237);
+}
+.B{
+    font-size: xx-large;
+    color: rgb(124, 156, 232);
+}
+.gambar1{
+    width: 350px;
+    border-radius: 10%;
+}
+.gambar2{
+    width: 350px;
+    border-radius: 10%;
+    height: 360px;
+}
+.baris{
+    width: 350px;
+    border-radius: 10%;
+    height: 360px;
+}
+.a1{
+    width: 350px;
+    border-radius: 10%;
+    height: 360px;
+}
+.a2{
+    width: 350px;
+    border-radius: 10%;
+    height: 360px;
+}
+.a3{
+    width: 350px;
+    border-radius: 10%;
+    height: 360px;
+}
+.a4{
+    width: 350px;
+    border-radius: 10%;
+    height: 360px;
+}
+.tabel{
+    background-color: goldenrod;
+}
